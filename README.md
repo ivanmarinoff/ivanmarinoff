@@ -1,23 +1,8 @@
 ### ✨ Hi there! ✨
 <html>
-  <head>
-    <title>Title of the document</title>
-    <style>
-      img {
-        width: 600px; /* image initial width */
-      }
-      div {
-        border: 2px dotted #000000;
-      }
-      .container {
-        width: 500px; /* container initial width */
-        border: 2px solid whitesmoke;
-      }
-    </style>
-  </head>
   <body>
-    <div class="container">
-      <img src="matrix.gif" alt="Matrix gif"/>
+    <div>
+      <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif"/>
     </div>
   </body>
 </html>
