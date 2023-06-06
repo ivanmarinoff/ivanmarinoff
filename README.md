@@ -1,20 +1,28 @@
 ### ✨ Hi there! ✨
-<!DOCTYPE html>
 <html>
   <head>
+    <title>Title of the document</title>
     <style>
       img {
-        width: 400px;
-        height: 200px;
-        object-fit: cover;
+        width: 600px; /* image initial width */
+      }
+      div {
+        border: 2px dotted #000000;
+      }
+      .container {
+        width: 500px; /* container initial width */
+        border: 2px solid whitesmoke;
       }
     </style>
   </head>
   <body>
-    <img src="matrix.gif" alt="Matrix gif"/>
+    <div class="container">
+      <img src="matrix.gif" alt="Matrix gif"/>
+    </div>
   </body>
 </html>
-      
+    
+    
 
 
 
