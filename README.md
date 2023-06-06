@@ -3,9 +3,6 @@
 <html>
   <head>
     <style>
-      body {
-        text-align: center;
-      }
       img {
         width: 400px;
         height: 200px;
@@ -14,7 +11,7 @@
     </style>
   </head>
   <body>
-    <img src="matrix.gif" width="480" height="200" frameBorder="0" class="giphy-embed"  alt="Matrix gif"/>
+    <img src="matrix.gif" alt="Matrix gif"/>
   </body>
 </html>
       
