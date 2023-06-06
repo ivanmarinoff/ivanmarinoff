@@ -24,13 +24,13 @@
 
 <div id="badges" align="center">
 
-<a href="https://1bestlinks.net/gfBjo">
+<a href="https://rb.gy/vtue8">
     <img src="https://img.shields.io/badge/I%20Love-Python-ff69b4" alt="Python badge">
 </a>    
-<a href="https://1bestlinks.net/PPhSI">
+<a href="https://rb.gy/gui7f">
     <img src="https://img.shields.io/badge/I%20love-Photography-red" alt="Photography badge">
 </a>
-<a href="https://1bestlinks.net/wwKpf">
+<a href="https://rb.gy/i09gq">
     <img src="https://img.shields.io/badge/I%20love-Cycling-yellowgreen" alt="Cycling badge">
 </a>
 </div>
