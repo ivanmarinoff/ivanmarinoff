@@ -10,7 +10,7 @@
 </div>
 <html lang="en">
   <body>
-    <div>
+    <div id="matrix" align="center">
       <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif"/>
     </div>
   </body>
@@ -35,7 +35,7 @@
 </a>
 </div>
 
-<div id="passion" align="center">
+<div id="stats" align="center">
 
 # 🛠️ GitHub Stats 🛠️
 
