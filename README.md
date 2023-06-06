@@ -1,4 +1,5 @@
 ### ✨ Hi there! ✨
+## 👀 This is mine favorite movie. 👀
 <html>
   <body>
     <div>
@@ -11,11 +12,13 @@
 
 
 
-#  🔥 My Passion 🔥:
+#  💖 My Passion 💖
 
 <img src="https://img.shields.io/badge/I%20Love-Python-ff69b4" alt="Python">
+<img src="https://img.shields.io/badge/I%20love-Photography-red" alt="Photography">
+<img src="https://img.shields.io/badge/I%20love-Cycling-yellowgreen" alt="Cycling">
 
-# 📊 GitHub Stats:
+# 🛠️ GitHub Stats 🛠️ 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmarinoff&theme=highcontrast&hide_border=false" alt="Status" >
 
