@@ -16,4 +16,4 @@
 ---
 
 ---
-![Anurag's GitHub stats](https://visitcount.itsvg.in/api?id=i
+![Anurag's GitHub stats](https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20Views&color=12&pretty=false)
