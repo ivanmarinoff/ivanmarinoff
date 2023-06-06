@@ -1,7 +1,26 @@
 ### ✨ Hi there! ✨
-<p>
-  <img src="matrix.gif" width="480" height="266" frameBorder="0" class="giphy-embed"  alt="Matrix gif"/>
-</p>
+<html>
+  <head>
+    <style>
+      .container {
+        width: 60%;
+        height: 300px;
+        border: 5px solid gold;
+      }
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img src="matrix.gif" width="480" height="266" frameBorder="0" class="giphy-embed"  alt="Matrix gif"/>
+    </div>
+  </body>
+</html>
+
 
 #  🔥 My Passion 🔥:
 
