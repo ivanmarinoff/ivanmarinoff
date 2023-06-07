@@ -40,10 +40,14 @@
 <div id="stats" align="center">
 
 # 🛠️ GitHub Stats 🛠️
+<div id="stats" align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmarinoff&theme=highcontrast&hide_border=false" alt="Status" >
+<div id="stats" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarinoff&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Languages" >
+</div>  
+</div>  
 </div>  
 
 ---
