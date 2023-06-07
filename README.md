@@ -5,7 +5,7 @@
 </div>
 <div id="matrix" align="center">
 
-## 👀 This is mine favorite movie. 👀
+## 👀👇 ***Best movie ever.*** 👇👀
 
 </div>
 <html lang="en">
@@ -25,13 +25,13 @@
 <div id="badges" align="center">
 
 <a href="https://rb.gy/vtue8">
-    <img src="https://img.shields.io/badge/I%20Love-Python-ff69b4" alt="Python badge">
+    <img src="https://img.shields.io/badge/I%20Love-🐍 Python 🐍-ff69b4" alt="Python badge">
 </a>    
 <a href="https://rb.gy/gui7f">
-    <img src="https://img.shields.io/badge/I%20love-Photography-red" alt="Photography badge">
+    <img src="https://img.shields.io/badge/I%20love-📷 Photography 📷-red" alt="Photography badge">
 </a>
 <a href="https://rb.gy/i09gq">
-    <img src="https://img.shields.io/badge/I%20love-Cycling-yellowgreen" alt="Cycling badge">
+    <img src="https://img.shields.io/badge/I%20love-🚴‍♂️Cycling🚴‍♂️-yellowgreen" alt="Cycling badge">
 </a>
 </div>
 
@@ -47,4 +47,4 @@
 ---
 
 ---
-![Anurag's GitHub stats](https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20Views&color=12&pretty=false)
+![Anurag's GitHub stats](https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false)
