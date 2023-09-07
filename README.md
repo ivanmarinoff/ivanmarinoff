@@ -49,10 +49,15 @@
 </div>  
 </div>  
 </div>  
-# 🛠️ Codeium Stats 🛠️
-I have accepted 9118 completions in 10 different coding languages using Codeium from www.codeium.com!![image](https://github.com/ivanmarinoff/ivanmarinoff/assets/107050101/d49aab2a-8b67-48e9-89d9-0afb7c95cd77)
 
 ---
 
 ---
 ![Anurag's GitHub stats](https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false)
+
+---
+
+---
+# 🛠️ Codeium Stats 🛠️
+
+![image](https://github.com/ivanmarinoff/ivanmarinoff/assets/107050101/d49aab2a-8b67-48e9-89d9-0afb7c95cd77)
