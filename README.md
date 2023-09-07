@@ -24,6 +24,7 @@
 
 </div>
 
+
 <div id="badges" align="center">
 
 <a href="https://rb.gy/vtue8">
@@ -53,11 +54,22 @@
 ---
 
 ---
-![Anurag's GitHub stats](https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false)
 
----
+[//]: # ()
+[//]: # (![Anurag's GitHub stats]&#40;https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false&#41;)
 
----
-# 🛠️ Codeium Stats 🛠️
+[//]: # (<a href="https://visitcount.itsvg.in">)
 
-![image](https://github.com/ivanmarinoff/ivanmarinoff/assets/107050101/d49aab2a-8b67-48e9-89d9-0afb7c95cd77)
+[//]: # (  <img src="https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false"  alt="Counter"/>)
+
+[//]: # (</a>)
+
+<div id="stats" align="center">
+
+# 🛠️👀 Codeium Stats 👀🛠️
+
+<div id="stats" align="center">
+
+<img src="https://github.com/ivanmarinoff/ivanmarinoff/assets/107050101/d49aab2a-8b67-48e9-89d9-0afb7c95cd77" alt="Status">
+</div>  
+</div>  
