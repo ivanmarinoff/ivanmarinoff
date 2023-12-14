@@ -36,9 +36,6 @@
 <a href="https://rb.gy/i09gq">
     <img src="https://img.shields.io/badge/I%20love-🚴‍♂️Cycling🚴‍♂️-yellowgreen" alt="Cycling badge">
 </a>
-<a href="https://rb.gy/vtue8">
-<img src="https://img.shields.io/github/watchers/ivanmarinoff/ivanmarinoff.svg">
-</a>
 </div>
 
 <div id="stats" align="center">
