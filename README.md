@@ -2,8 +2,6 @@
 
 ## ✨ Hi there! ✨
 
-</div>
-<div id="matrix" align="center">
 
 ## 👀👇 ***Best movie ever !*** 👇👀
 
@@ -55,21 +53,29 @@
 
 ---
 
-[//]: # ()
-[//]: # (![Anurag's GitHub stats]&#40;https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false&#41;)
+<div id="stats" align="center">
+
+![ivanmarinoff GitHub stats](https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false)
+</div> 
 
 [//]: # (<a href="https://visitcount.itsvg.in">)
 
+[//]: # ()
 [//]: # (  <img src="https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false"  alt="Counter"/>)
 
+[//]: # ()
 [//]: # (</a>)
+ 
 
-<div id="stats" align="center">
+[//]: # (<div id="stats" align="center">)
 
-# 🛠️👀 Codeium Stats 👀🛠️
+[//]: # (# 🛠️👀 Codeium Stats 👀🛠️)
 
-<div id="stats" align="center">
+[//]: # ()
+[//]: # (<div id="stats" align="center">)
 
-<img src="https://github.com/ivanmarinoff/ivanmarinoff/assets/107050101/d49aab2a-8b67-48e9-89d9-0afb7c95cd77" alt="Status">
-</div>  
-</div>  
+[//]: # ()
+[//]: # (<img src="https://github.com/ivanmarinoff/ivanmarinoff/assets/107050101/d49aab2a-8b67-48e9-89d9-0afb7c95cd77" alt="Status">)
+[//]: # (</div>  )
+
+[//]: # (</div>  )
