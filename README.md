@@ -55,27 +55,6 @@
 
 <div id="stats" align="center">
 
-![ivanmarinoff GitHub stats](https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false)
-</div> 
+![👀Visitors👀](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fivanmarinoff&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 
-[//]: # (<a href="https://visitcount.itsvg.in">)
-
-[//]: # ()
-[//]: # (  <img src="https://visitcount.itsvg.in/api?id=ivanmarinoff&label=Profile%20👀Views👀&color=12&pretty=false"  alt="Counter"/>)
-
-[//]: # ()
-[//]: # (</a>)
- 
-
-[//]: # (<div id="stats" align="center">)
-
-[//]: # (# 🛠️👀 Codeium Stats 👀🛠️)
-
-[//]: # ()
-[//]: # (<div id="stats" align="center">)
-
-[//]: # ()
-[//]: # (<img src="https://github.com/ivanmarinoff/ivanmarinoff/assets/107050101/d49aab2a-8b67-48e9-89d9-0afb7c95cd77" alt="Status">)
-[//]: # (</div>  )
-
-[//]: # (</div>  )
+</div>
