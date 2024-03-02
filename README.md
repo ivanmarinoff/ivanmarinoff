@@ -1,3 +1,5 @@
+
+
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
@@ -59,4 +61,6 @@
 
 </div>
 
-<script src="google_analytics.html"></script>
+```js
+import { googleTagManagerNoScript } from "./tagscript.js";
+```
