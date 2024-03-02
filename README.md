@@ -1,4 +1,3 @@
-<script src="tagscript.js"></script>
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
@@ -59,3 +58,5 @@
 ![👀Visitors👀](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fivanmarinoff&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 
 </div>
+
+<script src="google_analytics.html"></script>
