@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/tagscript.js">
+<script src="tagscript.js" type="text/javascript"></script>
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
