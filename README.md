@@ -1,4 +1,4 @@
-<a href="/google_analytics.html">
+<script src="tagscript.js"></script>
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
