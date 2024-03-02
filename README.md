@@ -1,5 +1,4 @@
-
-
+<a href="https://github.com/ivanmarinoff/google_analytics.html"></a>
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
@@ -44,6 +43,9 @@
 <div id="stats" align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmarinoff&theme=highcontrast&hide_border=false" alt="Status" >
+<a href="https://github.com/ivanmarinoff">
+<img src="https://github-readme-stats.vercel.app/api?username=ivanmarinoff&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Status" >
+</a>
 <div id="stats" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarinoff&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Languages" >
@@ -60,7 +62,3 @@
 ![👀Visitors👀](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fivanmarinoff&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 
 </div>
-
-```js
-import { googleTagManagerNoScript } from "./tagscript.js";
-```
