@@ -1,17 +1,4 @@
-<html lang="en">
-<head>
-    <!-- Google Tag Manager -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GTM-596G5KGT"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'GTM-596G5KGT');
-</script>
-</head>
-
-
+ ![](google_analytics.html)
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
@@ -72,4 +59,3 @@
 ![👀Visitors👀](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fivanmarinoff&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 
 </div>
-</html>
