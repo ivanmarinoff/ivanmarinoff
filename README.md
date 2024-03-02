@@ -1,4 +1,4 @@
- ![](google_analytics.html)
+<a href="/google_analytics.html">
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
