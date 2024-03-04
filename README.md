@@ -7,7 +7,7 @@
 
 </div>
 <html lang="en">
-<script src="tagscript.js"></script>
+  <a href="google_analytics.html">
   <body>
     <div id="matrix" align="center">
     <a href="https://en.wikipedia.org/wiki/The_Matrix">
@@ -15,6 +15,7 @@
     </a>
     </div>
   </body>
+</a>
 </html>
 <br/><br/>
 <div id="passion" align="center">
