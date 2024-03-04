@@ -1,4 +1,3 @@
-<a href="https://github.com/ivanmarinoff/google_analytics.html"></a>
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
@@ -8,6 +7,7 @@
 
 </div>
 <html lang="en">
+<script src="tagscript.js"></script>
   <body>
     <div id="matrix" align="center">
     <a href="https://en.wikipedia.org/wiki/The_Matrix">
