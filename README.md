@@ -1,10 +1,5 @@
 <html lang="en">
 <head>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-596G5KGT');</script>
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
@@ -13,8 +8,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 </head>
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-596G5KGT"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <body>
     <div id="matrix" align="center">
     <a href="https://en.wikipedia.org/wiki/The_Matrix" target="_blank">
@@ -70,3 +63,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ![👀Visitors👀](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fivanmarinoff&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 
 </div>
+
+<script src="tagscript.js"></script>
