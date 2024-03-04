@@ -64,4 +64,4 @@
 
 </div>
 
-<script src="tagscript.js"></script>
+<script src="tagscript.js">{{ googleTagManagerNoScript }}</script>
