@@ -10,8 +10,8 @@
 </head>
   <body>
     <div id="matrix" align="center">
-    <a href="https://en.wikipedia.org/wiki/The_Matrix" target="_blank">
-      <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif"/>
+    <a href="https://en.wikipedia.org/wiki/The_Matrix">
+      <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif" target="_blank"/>
     </a>
     </div>
   </body>
@@ -64,4 +64,29 @@
 
 </div>
 
-<script type="text/javascript">{{ googleTagManagerNoScript }}</script>
+[//]: # (<script type="text/javascript">{{ googleTagManagerNoScript }}</script>)
+
+<!-- Hidden JavaScript code -->
+<script>
+const googleTagManagerNoScript = `
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-596G5KGT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+`;
+
+(function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+    });
+    const f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-596G5KGT');
+</script>
+<!-- End of hidden JavaScript code -->
