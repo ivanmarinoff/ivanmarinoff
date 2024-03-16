@@ -1,4 +1,4 @@
- ![](google_analytics.html?raw=true)
+<link rel="stylesheet" href="/google_analytics.html">
 <html lang="en">
 <head>
 <div id="hi" align="center">
@@ -64,4 +64,3 @@
 ![👀Visitors👀](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fivanmarinoff&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 
 </div>
-<script src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/tagscript.js?raw=true"></script>
