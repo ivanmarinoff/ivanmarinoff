@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="/google_analytics.html">
 <html lang="en">
 <head>
+<link rel="stylesheet" href="/head.js">
 <div id="hi" align="center">
 
 ## ✨ Hi there! ✨
@@ -10,6 +10,7 @@
 </div>
 </head>
   <body>
+    <link rel="stylesheet" href="/body.js">
     <div id="matrix" align="center">
     <a href="https://en.wikipedia.org/wiki/The_Matrix" target="_blank">
       <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif"/>
