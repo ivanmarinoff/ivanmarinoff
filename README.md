@@ -1,4 +1,4 @@
-[//]: # ( ![]&#40;google_analytics.html&#41;)
+ ![](google_analytics.html?raw=true)
 <html lang="en">
 <head>
 <div id="hi" align="center">
