@@ -1,4 +1,4 @@
- ![](tagscript.js)
+ ![](google_analytics.html)
 <html lang="en">
 <head>
 <div id="hi" align="center">
@@ -11,8 +11,8 @@
 </head>
   <body>
     <div id="matrix" align="center">
-    <a href="https://en.wikipedia.org/wiki/The_Matrix">
-      <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif" target="_blank"/>
+    <a href="https://en.wikipedia.org/wiki/The_Matrix" target="_blank">
+      <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif"/>
     </a>
     </div>
   </body>
