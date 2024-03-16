@@ -1,4 +1,4 @@
- ![](google_analytics.html)
+[//]: # ( ![]&#40;google_analytics.html&#41;)
 <html lang="en">
 <head>
 <div id="hi" align="center">
@@ -9,7 +9,14 @@
 
 </div>
 </head>
-  <body>
+  <body><script async src="https://www.googletagmanager.com/gtag/js?id=GTM-596G5KGT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'GTM-596G5KGT');
+</script>
     <div id="matrix" align="center">
     <a href="https://en.wikipedia.org/wiki/The_Matrix" target="_blank">
       <img src="https://github.com/ivanmarinoff/ivanmarinoff/blob/main/matrix.gif?raw=true" width="480" height="200" alt="Matrix gif"/>
