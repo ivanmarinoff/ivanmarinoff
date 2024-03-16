@@ -1,4 +1,4 @@
- ![](https://github.com/ivanmarinoff/ivanmarinoff/blob/main/tagscript.js)
+ ![](tagscript.js)
 <html lang="en">
 <head>
 <div id="hi" align="center">
