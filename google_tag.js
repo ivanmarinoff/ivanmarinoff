@@ -1,23 +1,15 @@
-<!-- Google Tag Manager -->
-(function (w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-        'gtm.start':
-            new Date().getTime(), event: 'gtm.js'
-    });
-    const f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-596G5KGT');
-<!-- End Google Tag Manager -->
+const vm = require('vm');
 
-const googleTagManagerNoScript = `
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-596G5KGT"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+const script = `
+  var window = {};
+  var dataLayer = [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-G3NN486JFL');
 `;
 
+const sandbox = { dataLayer: [] };
+const context = new vm.createContext(sandbox);
+vm.runInContext(script, context);
+
+console.log(sandbox.dataLayer); // Output the dataLayer array after executing the script

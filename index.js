@@ -15,7 +15,7 @@ app.use(require('body-parser')
 
 // Set up your index route
 app.get('/', function (req, res) {
-  res.sendFile(__dirname + '/readme.md');
+  res.sendFile(__dirname + '/index.html');
 });
 
 // Start the server
