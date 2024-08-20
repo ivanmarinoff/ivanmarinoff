@@ -2,6 +2,7 @@
 <head>
 
 <div id="hi" align="center">
+<link rel="stylesheet" href="/head.js?raw=true">
 
 ## ✨ Hi there! ✨
 
@@ -37,7 +38,6 @@
 <a href="https://rb.gy/i09gq">
     <img src="https://img.shields.io/badge/I%20love-🚴‍♂️Cycling🚴‍♂️-yellowgreen" alt="Cycling badge">
 </a>
-<link rel="stylesheet" href="/head.js?raw=true">
 </div>
 
 <div id="stats" align="center">
